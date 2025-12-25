@@ -1,16 +1,15 @@
-# astrology_chatbot
+# Astrology Flutter App 🔮
 
-A new Flutter project.
+A Flutter-based astrology chatbot application.
 
-## Getting Started
+## 📸 Screenshots
 
-This project is a starting point for a Flutter application.
+### Login Screen
+![Login Screen](assets/Screenshot 2025-12-25 125258.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Signup Screen
+![Signup Screen](assets/Screenshot 2025-12-25 125228.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Chat Screen
+![Chat Screen](assets/Screenshot 2025-12-25 125214.png)
+(assets/Screenshot 2025-12-25 125345.png)
