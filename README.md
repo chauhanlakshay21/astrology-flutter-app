@@ -12,4 +12,6 @@ A Flutter-based astrology chatbot application.
 
 ### Chat Screen
 ![Chat Screen](assets/Signup.png)
-(assets/login.png)
+
+### Chat Screen
+![Chat Screen](assets/details.png)
